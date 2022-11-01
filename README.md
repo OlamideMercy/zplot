@@ -10,6 +10,7 @@ R> (devtools)
 ```{r}
 R> install.packages("tigerstats")
 ```
+# installing zplot
 ```{r}
 R> install_github ("OlamideMercy/zplot")
 ```
