@@ -7,7 +7,13 @@ R> install.packages ("devtools")
 R> (devtools)
 ```
 # installing the pacakage that zplot depends on (tigerstats)
+```{r}
 R> install.packages("tigerstats")
+```
+```{r}
 R> install_github ("OlamideMercy/zplot")
+```
 # After installation, load the zplot
+```{r}
 R> library (zplot)
+```
