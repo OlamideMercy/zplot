@@ -4,11 +4,12 @@ This function allows you find the z value and shows the p-value with a chart usi
 
 ```{r}
 R> install.packages ("devtools")
-R> (devtools)
+R> library(devtools)
 ```
 # installing the pacakage that zplot depends on (tigerstats)
 ```{r}
 R> install.packages("tigerstats")
+R> library(tigerstats)
 ```
 # installing zplot
 ```{r}
